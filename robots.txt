@@ -1,1 +1,1 @@
-Sitemap: https://dariuszkaras.github.io/acloud.builders/sitemap.xml
+Sitemap: https://acloud.builders/acloud.builders/sitemap.xml
