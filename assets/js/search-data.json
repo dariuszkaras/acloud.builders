@@ -2,7 +2,7 @@
   
     
         "post0": {
-            "title": "An Example Markdown Post",
+            "title": "First post here",
             "content": "Hello world . yeah this is first post here will be changed ;) .",
             "url": "https://acloud.builders/markdown/2021/11/30/helloworld.html",
             "relUrl": "/markdown/2021/11/30/helloworld.html",
@@ -37,9 +37,6 @@
   
 
   
-  
-
-  
 
   
   
@@ -51,7 +48,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://acloud.builders/robots.txt",
