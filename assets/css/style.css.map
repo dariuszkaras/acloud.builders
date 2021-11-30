@@ -3,9 +3,9 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"../../tmp/jekyll-remote-theme-20211130-1-xzkm7y/_sass/jekyll-theme-hacker.scss",
-		"../../tmp/jekyll-remote-theme-20211130-1-xzkm7y/_sass/rouge-base16-dark.scss",
-		"../../tmp/jekyll-remote-theme-20211130-1-xzkm7y/_sass/_default_colors.scss"
+		"../../tmp/jekyll-remote-theme-20211130-1-1gorwqs/_sass/jekyll-theme-hacker.scss",
+		"../../tmp/jekyll-remote-theme-20211130-1-1gorwqs/_sass/rouge-base16-dark.scss",
+		"../../tmp/jekyll-remote-theme-20211130-1-1gorwqs/_sass/_default_colors.scss"
 	],
 	"sourcesContent": [
 		"@import 'jekyll-theme-hacker';\n",
