@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://acloud.builders/acloud.builders/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://acloud.builders/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://acloud.builders/acloud.builders/jupyter/2020/02/20/test.html</loc>
+<loc>https://acloud.builders/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://acloud.builders/acloud.builders/about/</loc>
+<loc>https://acloud.builders/about/</loc>
 </url>
 <url>
-<loc>https://acloud.builders/acloud.builders/</loc>
+<loc>https://acloud.builders/</loc>
 </url>
 <url>
-<loc>https://acloud.builders/acloud.builders/search/</loc>
+<loc>https://acloud.builders/search/</loc>
 </url>
 <url>
-<loc>https://acloud.builders/acloud.builders/categories/</loc>
+<loc>https://acloud.builders/categories/</loc>
 </url>
 </urlset>
