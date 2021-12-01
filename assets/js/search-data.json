@@ -48,19 +48,7 @@
   
 
   
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-      ,"page14": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://acloud.builders/robots.txt",
