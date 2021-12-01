@@ -81,7 +81,7 @@ html_escape:
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
-remote_theme: kippt/jekyll-incorporated
+remote_theme: kippt/jekyll-incorporated@master
 plugins:
   - jekyll-feed
   - jekyll-gist
